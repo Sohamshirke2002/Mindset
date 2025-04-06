@@ -9,4 +9,5 @@ Not only weren’t they discouraged by failure, they didn’t even think they we
 A few modern philosophers . . . 
 assert that an individual’s intelligence is a fixed quantity, a quantity which cannot be increased. We must protest and react against this brutal pessimism. . . . 
 With practice, training, and above all, method, we manage to increase our attention, our memory, our judgment and literally to become more intelligent than we were before.
-- forerunner Binet recognized, ==it’s not always the people who start out the smartest who end up the smartest==.
+- forerunner Binet recognized, 
+> it’s not always the people who start out the smartest who end up the smartest.
